@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-around;
+    font-size: 28px;
+    background-color: rgb(95, 78, 177);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 0px;
+}
+
+
+#investorForm{
+    margin: 10px 0px 0px 0px;
+}
+
